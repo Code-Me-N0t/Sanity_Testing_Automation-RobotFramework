@@ -1,0 +1,5 @@
+{
+    "robot.pythonpath": [
+        "helpers/creds.json"
+    ]
+}
