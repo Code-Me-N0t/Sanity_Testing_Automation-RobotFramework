@@ -77,9 +77,3 @@ Test Scenario 11: Validate clicking the Profile Icon should open the profile mod
     Given The lobby should display immediately
     When I click the icon    profile
     Then I should be redirected to the    profile
-
-Test Scenario 12: Sample Scenario
-    [Tags]    navigation    1724983297724
-    Given The lobby should display immediately
-    When I click the icon    profile
-    Then I should be redirected to the    profile
